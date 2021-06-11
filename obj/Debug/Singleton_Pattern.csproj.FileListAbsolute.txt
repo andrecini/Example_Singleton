@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\Singleton_Pattern\obj\Debug\Singleton_Pattern.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\Singleton_Pattern\obj\Debug\Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\Singleton_Pattern\bin\Debug\Singleton_Pattern.exe.config
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\Singleton_Pattern\bin\Debug\Singleton_Pattern.exe
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\Singleton_Pattern\bin\Debug\Singleton_Pattern.pdb
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\Singleton_Pattern\obj\Debug\Singleton_Pattern.exe
+C:\Users\admin\Desktop\Estudo Isoplan\Exemplos de Código\Singleton_Pattern\obj\Debug\Singleton_Pattern.pdb
